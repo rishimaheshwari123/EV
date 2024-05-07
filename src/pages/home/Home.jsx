@@ -51,11 +51,44 @@ const Home = () => {
             </div>
           </Slide>
         </div>
-      </div>
 
-      <div className="why-chose">
-        <div className="main-container">
-          <h4 className="hero-title">WROLEY ELECTRIC SCOOTER</h4>
+        <div className="here-section" style={{ marginTop: "80px" }}>
+          <Slide direction="left">
+            <div className="hero-second">
+              <h4 className="hero-title">WROLEY ELECTRIC SCOOTER</h4>
+              <h1 className="hero-heading">
+                Wroley Electric Scooter: The New Electric Scooter in Delhi
+              </h1>
+              <ul>
+                <li>
+                  Eco-Friendly Innovation: Our electric scooters are designed
+                  with a commitment to sustainability. By choosing Wroley
+                  Electric Scooter, you're not just choosing a mode of
+                  transportation; you're choosing a greener future for Delhi.
+                </li>
+                <li>
+                  Efficient Performance: Experience the power and efficiency of
+                  our electric scooters. Navigating through the city has never
+                  been smoother, and with zero emissions, you'll be contributing
+                  to a healthier environment with every ride.
+                </li>
+                <li>
+                  Modern and Stylish Design: We believe that sustainability
+                  should not compromise style. Our scooters boast a modern and
+                  stylish design, ensuring that you turn heads on the road while
+                  making a positive impact.
+                </li>
+              </ul>
+            </div>
+          </Slide>
+          <Slide direction="right">
+            <div className="hero-first">
+              <img
+                src="https://thumbs.dreamstime.com/b/why-choose-us-symbol-concept-word-beautiful-white-paper-orange-table-background-business-motivational-copy-space-299736448.jpg"
+                alt=""
+              />
+            </div>
+          </Slide>
         </div>
       </div>
     </>

@@ -33,13 +33,13 @@ const Slider = () => {
         </SwiperSlide>
         <SwiperSlide>
           <img
-            src="https://wroleyelectricscooter.in/assets/images/e-scooter-transformed.png"
+            src="https://wroleyelectricscooter.in/assets/images/wroley-platina-pic-1.png"
             alt="not found"
           />
         </SwiperSlide>
         <SwiperSlide>
           <img
-            src="https://wroleyelectricscooter.in/assets/images/e-scooter-transformed.png"
+            src="https://wroleyelectricscooter.in/assets/images/about-1.png"
             alt="not found"
           />
         </SwiperSlide>
