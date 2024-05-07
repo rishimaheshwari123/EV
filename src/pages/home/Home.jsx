@@ -8,8 +8,8 @@ const Home = () => {
     <>
       <div className="main-container">
         <Slider />
-        <marquee class="marq" direction="left" loop="">
-          <div class="">New Year 2024 Offer 100%* Cashback</div>
+        <marquee className="marq" direction="left" loop="">
+          <div className="">New Year 2024 Offer 100%* Cashback</div>
         </marquee>
 
         <div className="here-section">
